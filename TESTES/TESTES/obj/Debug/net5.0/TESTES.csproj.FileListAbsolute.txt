@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GIT - Maju\TESTES\TESTES\obj\Debug\net5.0\TESTES.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GIT - Maju\TESTES\TESTES\obj\Debug\net5.0\TESTES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GIT - Maju\TESTES\TESTES\obj\Debug\net5.0\TESTES.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GIT - Maju\TESTES\TESTES\obj\Debug\net5.0\TESTES.AssemblyInfo.cs
+C:\Users\User\Documents\GIT - Maju\TESTES\TESTES\obj\Debug\net5.0\TESTES.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GIT - Maju\TESTES\TESTES\bin\Debug\net5.0\TESTES.exe
+C:\Users\User\Documents\GIT - Maju\TESTES\TESTES\bin\Debug\net5.0\TESTES.deps.json
+C:\Users\User\Documents\GIT - Maju\TESTES\TESTES\bin\Debug\net5.0\TESTES.runtimeconfig.json
+C:\Users\User\Documents\GIT - Maju\TESTES\TESTES\bin\Debug\net5.0\TESTES.runtimeconfig.dev.json
+C:\Users\User\Documents\GIT - Maju\TESTES\TESTES\bin\Debug\net5.0\TESTES.dll
+C:\Users\User\Documents\GIT - Maju\TESTES\TESTES\bin\Debug\net5.0\TESTES.pdb
+C:\Users\User\Documents\GIT - Maju\TESTES\TESTES\obj\Debug\net5.0\TESTES.dll
+C:\Users\User\Documents\GIT - Maju\TESTES\TESTES\obj\Debug\net5.0\refint\TESTES.dll
+C:\Users\User\Documents\GIT - Maju\TESTES\TESTES\obj\Debug\net5.0\TESTES.pdb
+C:\Users\User\Documents\GIT - Maju\TESTES\TESTES\obj\Debug\net5.0\TESTES.genruntimeconfig.cache
+C:\Users\User\Documents\GIT - Maju\TESTES\TESTES\obj\Debug\net5.0\ref\TESTES.dll
