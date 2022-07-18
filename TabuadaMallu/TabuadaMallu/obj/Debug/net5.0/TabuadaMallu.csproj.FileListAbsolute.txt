@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Generation\TabuadaMallu\TabuadaMallu\obj\Debug\net5.0\TabuadaMallu.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Generation\TabuadaMallu\TabuadaMallu\obj\Debug\net5.0\TabuadaMallu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Generation\TabuadaMallu\TabuadaMallu\obj\Debug\net5.0\TabuadaMallu.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Generation\TabuadaMallu\TabuadaMallu\obj\Debug\net5.0\TabuadaMallu.AssemblyInfo.cs
+C:\Users\User\Documents\Generation\TabuadaMallu\TabuadaMallu\obj\Debug\net5.0\TabuadaMallu.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Generation\TabuadaMallu\TabuadaMallu\bin\Debug\net5.0\TabuadaMallu.exe
+C:\Users\User\Documents\Generation\TabuadaMallu\TabuadaMallu\bin\Debug\net5.0\TabuadaMallu.deps.json
+C:\Users\User\Documents\Generation\TabuadaMallu\TabuadaMallu\bin\Debug\net5.0\TabuadaMallu.runtimeconfig.json
+C:\Users\User\Documents\Generation\TabuadaMallu\TabuadaMallu\bin\Debug\net5.0\TabuadaMallu.runtimeconfig.dev.json
+C:\Users\User\Documents\Generation\TabuadaMallu\TabuadaMallu\bin\Debug\net5.0\TabuadaMallu.dll
+C:\Users\User\Documents\Generation\TabuadaMallu\TabuadaMallu\bin\Debug\net5.0\TabuadaMallu.pdb
+C:\Users\User\Documents\Generation\TabuadaMallu\TabuadaMallu\obj\Debug\net5.0\TabuadaMallu.dll
+C:\Users\User\Documents\Generation\TabuadaMallu\TabuadaMallu\obj\Debug\net5.0\refint\TabuadaMallu.dll
+C:\Users\User\Documents\Generation\TabuadaMallu\TabuadaMallu\obj\Debug\net5.0\TabuadaMallu.pdb
+C:\Users\User\Documents\Generation\TabuadaMallu\TabuadaMallu\obj\Debug\net5.0\TabuadaMallu.genruntimeconfig.cache
+C:\Users\User\Documents\Generation\TabuadaMallu\TabuadaMallu\obj\Debug\net5.0\ref\TabuadaMallu.dll
