@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GIT - Maju\Calculadora da Mallu\Calculadora da Mallu\bin\Debug\net5.0\Calculadora da Mallu.exe
+C:\Users\User\Documents\GIT - Maju\Calculadora da Mallu\Calculadora da Mallu\bin\Debug\net5.0\Calculadora da Mallu.deps.json
+C:\Users\User\Documents\GIT - Maju\Calculadora da Mallu\Calculadora da Mallu\bin\Debug\net5.0\Calculadora da Mallu.runtimeconfig.json
+C:\Users\User\Documents\GIT - Maju\Calculadora da Mallu\Calculadora da Mallu\bin\Debug\net5.0\Calculadora da Mallu.runtimeconfig.dev.json
+C:\Users\User\Documents\GIT - Maju\Calculadora da Mallu\Calculadora da Mallu\bin\Debug\net5.0\Calculadora da Mallu.dll
+C:\Users\User\Documents\GIT - Maju\Calculadora da Mallu\Calculadora da Mallu\bin\Debug\net5.0\Calculadora da Mallu.pdb
+C:\Users\User\Documents\GIT - Maju\Calculadora da Mallu\Calculadora da Mallu\obj\Debug\net5.0\Calculadora da Mallu.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GIT - Maju\Calculadora da Mallu\Calculadora da Mallu\obj\Debug\net5.0\Calculadora da Mallu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GIT - Maju\Calculadora da Mallu\Calculadora da Mallu\obj\Debug\net5.0\Calculadora da Mallu.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GIT - Maju\Calculadora da Mallu\Calculadora da Mallu\obj\Debug\net5.0\Calculadora da Mallu.AssemblyInfo.cs
+C:\Users\User\Documents\GIT - Maju\Calculadora da Mallu\Calculadora da Mallu\obj\Debug\net5.0\Calculadora da Mallu.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GIT - Maju\Calculadora da Mallu\Calculadora da Mallu\obj\Debug\net5.0\Calculadora da Mallu.dll
+C:\Users\User\Documents\GIT - Maju\Calculadora da Mallu\Calculadora da Mallu\obj\Debug\net5.0\refint\Calculadora da Mallu.dll
+C:\Users\User\Documents\GIT - Maju\Calculadora da Mallu\Calculadora da Mallu\obj\Debug\net5.0\Calculadora da Mallu.pdb
+C:\Users\User\Documents\GIT - Maju\Calculadora da Mallu\Calculadora da Mallu\obj\Debug\net5.0\Calculadora da Mallu.genruntimeconfig.cache
+C:\Users\User\Documents\GIT - Maju\Calculadora da Mallu\Calculadora da Mallu\obj\Debug\net5.0\ref\Calculadora da Mallu.dll
