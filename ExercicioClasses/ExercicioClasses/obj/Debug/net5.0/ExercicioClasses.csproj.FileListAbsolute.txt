@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GIT - Maju\ExercicioClasses\ExercicioClasses\bin\Debug\net5.0\ExercicioClasses.exe
+C:\Users\User\Documents\GIT - Maju\ExercicioClasses\ExercicioClasses\bin\Debug\net5.0\ExercicioClasses.deps.json
+C:\Users\User\Documents\GIT - Maju\ExercicioClasses\ExercicioClasses\bin\Debug\net5.0\ExercicioClasses.runtimeconfig.json
+C:\Users\User\Documents\GIT - Maju\ExercicioClasses\ExercicioClasses\bin\Debug\net5.0\ExercicioClasses.runtimeconfig.dev.json
+C:\Users\User\Documents\GIT - Maju\ExercicioClasses\ExercicioClasses\bin\Debug\net5.0\ExercicioClasses.dll
+C:\Users\User\Documents\GIT - Maju\ExercicioClasses\ExercicioClasses\bin\Debug\net5.0\ExercicioClasses.pdb
+C:\Users\User\Documents\GIT - Maju\ExercicioClasses\ExercicioClasses\obj\Debug\net5.0\ExercicioClasses.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GIT - Maju\ExercicioClasses\ExercicioClasses\obj\Debug\net5.0\ExercicioClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GIT - Maju\ExercicioClasses\ExercicioClasses\obj\Debug\net5.0\ExercicioClasses.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GIT - Maju\ExercicioClasses\ExercicioClasses\obj\Debug\net5.0\ExercicioClasses.AssemblyInfo.cs
+C:\Users\User\Documents\GIT - Maju\ExercicioClasses\ExercicioClasses\obj\Debug\net5.0\ExercicioClasses.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GIT - Maju\ExercicioClasses\ExercicioClasses\obj\Debug\net5.0\ExercicioClasses.dll
+C:\Users\User\Documents\GIT - Maju\ExercicioClasses\ExercicioClasses\obj\Debug\net5.0\refint\ExercicioClasses.dll
+C:\Users\User\Documents\GIT - Maju\ExercicioClasses\ExercicioClasses\obj\Debug\net5.0\ExercicioClasses.pdb
+C:\Users\User\Documents\GIT - Maju\ExercicioClasses\ExercicioClasses\obj\Debug\net5.0\ExercicioClasses.genruntimeconfig.cache
+C:\Users\User\Documents\GIT - Maju\ExercicioClasses\ExercicioClasses\obj\Debug\net5.0\ref\ExercicioClasses.dll
